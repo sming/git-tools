@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/Users/peter/src/bin/resources/git-hooks/local-or-remote-master-check.sh
