@@ -26,7 +26,4 @@ do
     cp -fvR "${SCRIPT_DIR}/dot-git/hooks/" ${REPO}/hooks/
 
     chmod -vR +x "${REPO}/hooks/"
-
-    # TODO DELETE ME
-    exit 0
 done
